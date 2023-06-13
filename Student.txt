@@ -1,0 +1,11 @@
+Name			Reg.No. 		Email Address					Marks
+Raju			68975			raju241@gmail.com				Maths=60	Physics=80	Chemistry=53	English=68	Islamiat=91
+Rohan			69524			rohan1@gmail.com				Maths=85	Physics=54	Chemistry=59	English=86	Islamiat=75
+Sana			99854			sssana@gmail.com				Maths=42	Physics=63	Chemistry=35	English=24	Islamiat=72
+Asra			89475			asra321@gmail.com				Maths=78	Physics=60	Chemistry=85	English=56	Islamiat=40
+Rahul			55652			rahul1@gmail.com				Maths=65	Physics=82	Chemistry=53	English=68	Islamiat=98
+Sarah			68524			raju241@gmail.com				Maths=68	Physics=85	Chemistry=59	English=68	Islamiat=94
+Tanveer			68985			tannu442@gmail.com				Maths=78	Physics=98	Chemistry=35	English=96	Islamiat=96
+Amna			11254			amna42112@gmail.com				Maths=94	Physics=52	Chemistry=84	English=13	Islamiat=69
+Raza			20569			raza666@gmail.com				Maths=25	Physics=66	Chemistry=91	English=59	Islamiat=94
+Fakhir			10255			fakhir2@gmail.com				Maths=39	Physics=59	Chemistry=21	English=96	Islamiat=61
